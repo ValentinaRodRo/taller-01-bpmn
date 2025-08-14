@@ -33,21 +33,6 @@ Se adaptó el modelado BPMN al proceso real del cliente, incluyendo:
 
 ---
 
-## 📊 Estructura del repositorio
-taller-01-bpmn/
-├── README.md
-├── clase/
-│ ├── modelo.drawio
-│ └── notas.md
-├── entrega/
-│ ├── modelo-final.drawio
-│ ├── modelo-final.drawio.png
-│ ├── informe.md
-│ └── referencias.md
-
-
----
-
 ## 🛠 Herramientas utilizadas
 - **Draw.io** → Modelado de procesos BPMN.
 - **GitHub** → Control de versiones y repositorio.
