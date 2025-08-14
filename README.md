@@ -19,14 +19,14 @@ Se modeló el proceso de **Agendamiento de Citas Médicas**, identificando:
 
 ---
 
-## 🛒 Parte 2 – Cliente Real: Registro de Órdenes de Compra
-Se adaptó el modelado BPMN al proceso real del cliente, incluyendo:
-- Interacción entre **Solicitante**, **Sistema ERP**, **Área de Compras** y **Proveedor**.
-- Validación de datos y aprobación de órdenes.
-- Ciclos de corrección ante datos incompletos o rechazo.
+## 🧪 Parte 2 – Proceso: Entrega de Resultados de Laboratorio
+Se adaptó el modelado BPMN al proceso real **Entrega de Resultados de Laboratorio** según los escenarios definidos en la guía del taller:
+- Interacción entre **Paciente**, **Técnico de laboratorio**, **Sistema de laboratorio** y **Médico tratante**.
+- Validación de resultados y gestión de errores.
+- Ciclo de retroalimentación en caso de resultados incorrectos.
 
 📂 **Archivos:**
-- `entrega/modelo-final.drawio` → Diagrama final BPMN del cliente.
+- `entrega/modelo-final.drawio` → Diagrama final BPMN.
 - `entrega/modelo-final.drawio.png` → Imagen exportada del modelo.
 - `entrega/informe.md` → Documento explicativo del proceso y comparativa con el caso base.
 - `entrega/referencias.md` → Fuentes y material consultado.
@@ -42,4 +42,3 @@ Se adaptó el modelado BPMN al proceso real del cliente, incluyendo:
 
 ## 📄 Licencia
 Este proyecto se entrega con fines académicos bajo licencia MIT.
-
