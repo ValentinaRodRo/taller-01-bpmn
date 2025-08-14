@@ -12,10 +12,10 @@
 
 ## 📄 Material de clase
 - Vega Fernández, C. A. (2025). *Introducción a BPMN*. Facultad de Ingeniería – Universidad de La Sabana. **(Archivo: 2-PMN_Modelado_Procesos.pdf)**
+- *Procesos que se pueden modelar con BPMN*. Documento de referencia para el taller. **(Archivo: Procesos_Modelables_BPMN.pdf)**
 
 ## 💻 Herramientas utilizadas
 - **draw.io** – Aplicación web para modelado de procesos BPMN. [https://app.diagrams.net/](https://app.diagrams.net/)
 - **GitHub Desktop** – Herramienta para control de versiones y sincronización de repositorios. [https://desktop.github.com/](https://desktop.github.com/)
 
-## 📌 Nota
-Toda la información relativa al cliente fue obtenida a través de **fuentes internas** y no se incluye información sensible.
+
